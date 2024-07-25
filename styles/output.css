@@ -1863,10 +1863,6 @@ video {
   border-width: 2px;
 }
 
-.border-0 {
-  border-width: 0px;
-}
-
 .border-x {
   border-left-width: 1px;
   border-right-width: 1px;
@@ -2202,11 +2198,6 @@ video {
 
 .text-5xl {
   font-size: 3rem;
-  line-height: 1;
-}
-
-.text-7xl {
-  font-size: 4.5rem;
   line-height: 1;
 }
 
@@ -2752,13 +2743,6 @@ body {
 
 .hover\:focus\:text-center:focus:hover {
   text-align: center;
-}
-
-@media (max-width: 400px) {
-  .max-\[400px\]\:text-4xl {
-    font-size: 2.25rem;
-    line-height: 2.5rem;
-  }
 }
 
 @media (min-width: 640px) {
