@@ -1,7 +1,7 @@
 
-# Cardápio de Hamburgueria
+# Hamburgueria
 
-Bem-vindo ao repositório do Cardápio de Hamburgueria! Este projeto é um site interativo de cardápio para uma hamburgueria, permitindo que os clientes visualizem os itens do menu e façam pedidos somente durante o horário de funcionamento.
+Bem-vindo ao repositório da Hamburgueria! Este projeto é um site interativo de cardápio para uma hamburgueria, permitindo que os clientes visualizem os itens do menu e façam pedidos somente durante o horário de funcionamento.
 
 ## Tecnologias Utilizadas
 
