@@ -18,12 +18,12 @@ Bem-vindo ao repositório do Cardápio de Hamburgueria! Este projeto é um site 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/cardapio-hamb.git
+   git clone https://github.com/seu-usuario/Hamburgueria.git
    ```
 
 2. Navegue até o diretório do projeto:
    ```bash
-   cd cardapio-hamb
+   cd Hamburgueria
    ```
 
 3. Abra o arquivo `index.html` em seu navegador preferido.
